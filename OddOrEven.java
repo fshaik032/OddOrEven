@@ -12,8 +12,7 @@ public class OddOrEven {
         int num;
 
 
-        //changes
-        System.out.println("New change, let's see what happens")
+        System.out.println("what happens now");
         
         
 
