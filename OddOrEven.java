@@ -11,6 +11,9 @@ public class OddOrEven {
         //declaring the variables
         int num;
 
+        //fight the changes
+        System.out.println("What will happen")
+
         //acquiring input
         System.out.println("Enter a positive integer.");
         num=input.nextInt();
